@@ -25,7 +25,7 @@ namespace Wrox.ProCSharp
             jupiterAccount.Withdraw(600);
             jupiterAccount.Withdraw(100);
             Console.WriteLine(jupiterAccount.ToString());
-            /**/
+            /*------*/
         }
     }
 }
